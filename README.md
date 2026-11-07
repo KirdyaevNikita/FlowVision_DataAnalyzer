@@ -7,12 +7,12 @@
 <p align="center">
   <img src="screenshots/1.png" alt="Интерфейс FlowVision Data Analyzer" width="100%">
 </p>
-<p align="center"><i>Интерфейс главного окна приложения</i></p>
+<p align="center"><i>Рисуно1 - Интерфейс главного окна приложения</i></p>
 
 <p align="center">
   <img src="screenshots/2.png" alt="Интерфейс FlowVision Data Analyzer" width="100%">
 </p>
-<p align="center"><i>Интерфейс окна осредненных величин по указанным интервалам</i></p>
+<p align="center"><i>Рисунок 2 - Интерфейс окна осредненных величин по указанным интервалам</i></p>
 
 ## Возможности
 
